@@ -10,7 +10,7 @@
 
 Took this test on HackerRank [here](https://www.hackerrank.com/skills-verification) 
 on __14th July 2020__. 
-Certificate can be viewed [here]()
+Certificate can be viewed [here](https://www.hackerrank.com/certificates/03ed5b8c542a)
 
 ## Programs 
 - [Fizz Buzz (Ungraded Assignment)](fizz-buzz.js)
