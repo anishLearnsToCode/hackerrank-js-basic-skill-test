@@ -1,12 +1,8 @@
 # HackerRank JavaScript (Basic) Skill Certification Test 
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/anishLearnsToCode/hackerrank-js-basic-skill-test)
-![made-with-js](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)
 ![problems-solved](https://img.shields.io/badge/Problems%20Solved-2/2-1abc9c.svg)
-[![license](https://img.shields.io/badge/LICENSE-MIT-<COLOR>.svg)](LICENSE)
-[![hackerrank-python](https://img.shields.io/badge/hackerrank%20certification-python-1f72ff.svg)](https://github.com/anishLearnsToCode/hackerrank-python-basic-skill-test)
-[![hackerrank-java](https://img.shields.io/badge/hackerrank%20certification-java-1f72ff.svg)](https://github.com/anishLearnsToCode/hackerrank-java-basic-skill-test)
-[![hackerrank-problem-solving](https://img.shields.io/badge/hackerrank%20certification-Problem%20Solving%20(Basic)-1f72ff.svg)](https://github.com/anishLearnsToCode/hackerrank-problem-solving-skill-test)
+[![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/anishLearnsToCode/competitive-programming)
+[![cp](https://img.shields.io/badge/also%20see-Other%20Certifications-1f72ff.svg)](https://github.com/anishLearnsToCode/competitive-programming#certifications)
 
 Took this test on HackerRank [here](https://www.hackerrank.com/skills-verification) 
 on __14th July 2020__. 
